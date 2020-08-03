@@ -7,9 +7,9 @@ Web scraping consists in gathering data available on websites. This can be done 
 - beautifulsoup4
 
 # Websites used
-- [a link](https://www.bbc.com/news/world)
-- [a link](http://oreilly.com)
-- [a link](https://www.worldometers.info/coronavirus/)
+- [BBC World](https://www.bbc.com/news/world)
+- [Oreilly](http://oreilly.com)
+- [WORLDOMETERS](https://www.worldometers.info/coronavirus/)
 
 # References
 - Webscraping with Python - Ryan Mitchell
