@@ -121,6 +121,6 @@ if bbc_headlines == None:
     print("Headlines could not be found")
 else:
     print(bbc_headlines)
-allIntLinks.add('http://oreilly.com')
-getAllExternalLinks('http://oreilly.com')
+# allIntLinks.add('http://oreilly.com')
+# getAllExternalLinks('http://oreilly.com')
 # getLinks('')
