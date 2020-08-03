@@ -12,4 +12,4 @@ Web scraping consists in gathering data available on websites. This can be done 
 - [WORLDOMETERS](https://www.worldometers.info/coronavirus/)
 
 # References
-- Webscraping with Python - Ryan Mitchell
+- Webscraping with Python - Ryan Mitchell PDF
